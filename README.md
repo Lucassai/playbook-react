@@ -11,8 +11,8 @@ Este 📁 guia a configuração inicial de um **projeto** utilizando **⚛️ Ty
 
 ```sh
 🧶 create vite projeto --template react-ts
-cd projeto
-🧶
+
+🧶 cd projeto
 ```
 
 ## ▶️ Executando o Projeto
