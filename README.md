@@ -49,12 +49,12 @@ No arquivo **index.css**, importe o 🎨 Tailwind:
 ## 📦 Instalando Dependências Adicionais
 
 ```sh
-🧶 add axios
-🧶 add phosphor-icons
-🧶 add react-router-dom
-🧶 add react-loader-spinner
-🧶 add @types/react-icons
-🧶 add framer-motion
+yarn add axios
+yarn add phosphor-icons
+yarn add react-router-dom
+yarn add react-loader-spinner
+yarn add @types/react-icons
+yarn add framer-motion
 ```
 
 ## 📂 Estrutura Recomendada
