@@ -10,15 +10,16 @@ Este 📁 guia a configuração inicial de um **projeto** utilizando **⚛️ Ty
 ## 🏗️ Inicializando o Projeto
 
 ```sh
-🧶 create vite projeto --template react-ts
+npm create vite projeto --template react-ts
 
-🧶 cd projeto
+cd projeto
 ```
 
 ## ▶️ Executando o Projeto
 
 ```sh
-🧶 dev
+yarn
+yarn dev
 ```
 
 ## 🎨 Configurando Tailwind CSS
@@ -26,7 +27,9 @@ Este 📁 guia a configuração inicial de um **projeto** utilizando **⚛️ Ty
 Instale o 🎨 Tailwind CSS e seu plugin para ⚡ Vite:
 
 ```sh
-📦 install tailwindcss @tailwindcss/vite
+
+npm install tailwindcss @tailwindcss/vite
+
 ```
 
 Edite o arquivo **vite.config.ts** para incluir o plugin:
